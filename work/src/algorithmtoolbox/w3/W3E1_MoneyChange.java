@@ -1,4 +1,4 @@
-package w3;
+package algorithmtoolbox.w3;
 
 import java.util.Scanner;
 

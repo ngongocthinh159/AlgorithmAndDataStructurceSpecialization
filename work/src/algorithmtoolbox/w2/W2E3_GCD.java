@@ -1,12 +1,8 @@
-package w2;
+package algorithmtoolbox.w2;
 
 import java.util.*;
 
-public class W2E4_LCM {
-  private static long lcm_fast(long a, long b) {
-    return a * b / gcd_fast(a, b);
-  }
-
+public class W2E3_GCD {
   private static long gcd_fast(long a, long b) {
     if (b == 0)
       return a;
@@ -20,6 +16,6 @@ public class W2E4_LCM {
     int a = scanner.nextInt();
     int b = scanner.nextInt();
 
-    System.out.println(lcm_fast(a, b));
+    System.out.println(gcd_fast(a, b));
   }
 }

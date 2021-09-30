@@ -1,4 +1,4 @@
-package w2;
+package algorithmtoolbox.w2;
 
 import java.math.BigInteger;
 import java.util.*;

@@ -1,8 +1,8 @@
-package w3;
+package algorithmtoolbox.w3;
 
 import java.util.*;
 
-public class W3E7_LargestNumber2 {
+public class W3E7_LargestNumber {
     private static String largestNumber(String[] a) {
         //write your code here
         StringBuilder result = new StringBuilder();
