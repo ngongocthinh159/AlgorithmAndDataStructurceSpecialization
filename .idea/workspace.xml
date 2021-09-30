@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9ae73c2-74db-45d0-b391-66a47d6f92d7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1yZpUzHgcuquExeSQGFagKXCMm7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../guava-31.0.1-jre.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\javaCode\algrorithmtoolbox\work\src\w3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\javaCode\algrorithmtoolbox" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="w3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.W3E7">
+    <configuration name="W3E1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="w3.W3E1_MoneyChange" />
+      <module name="algrorithmtoolbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W3E2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="w3.W3E2_FractionalKnapsack" />
+      <module name="algrorithmtoolbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W3E3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="w3.W3E3_CarFueling" />
+      <module name="algrorithmtoolbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W3E4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="w3.W3E4_DotProduct" />
+      <module name="algrorithmtoolbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W3E5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="w3.W3E5_CoveringSegments" />
+      <module name="algrorithmtoolbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W3E6" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="w3.W3E6_DifferentSummands" />
+      <module name="algrorithmtoolbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W3E7" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="w3.W3E7_LargestNumber2" />
+      <module name="algrorithmtoolbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.W3E1" />
+      <item itemvalue="Application.W3E2" />
+      <item itemvalue="Application.W3E3" />
+      <item itemvalue="Application.W3E4" />
+      <item itemvalue="Application.W3E5" />
+      <item itemvalue="Application.W3E6" />
+      <item itemvalue="Application.W3E7" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9ae73c2-74db-45d0-b391-66a47d6f92d7" name="Changes" comment="" />
+      <created>1632468984933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632468984933</updated>
+    </task>
+    <servers />
+  </component>
+</project>
