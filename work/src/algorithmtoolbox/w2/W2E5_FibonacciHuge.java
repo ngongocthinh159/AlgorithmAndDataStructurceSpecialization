@@ -3,7 +3,7 @@ package algorithmtoolbox.w2;
 import java.math.BigInteger;
 import java.util.*;
 
-public class W2E2_FibonacciHuge {
+public class W2E5_FibonacciHuge {
     private static long getMod(long n, long m) {
         long length = get_pisano_period(m);
         long newModIndex = n%length;

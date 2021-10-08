@@ -2,7 +2,7 @@ package algorithmtoolbox.w2;
 
 import java.util.*;
 
-public class W2E5_FibonacciLastDigit {
+public class W2E2_FibonacciLastDigit {
     private static int getFibonacciLastDigitFast(int n) {
         if (n == 1) return 1;
         if (n == 0) return 0;

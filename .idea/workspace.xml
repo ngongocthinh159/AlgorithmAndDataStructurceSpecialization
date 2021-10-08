@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9ae73c2-74db-45d0-b391-66a47d6f92d7" name="Changes" comment="initial 3">
-      <change afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E1_BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E2_MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E3_ImprovingQuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E4_Inversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E5_PointsAndSegments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E6_Closest_nlogn.java" afterDir="false" />
+    <list default="true" id="b9ae73c2-74db-45d0-b391-66a47d6f92d7" name="Changes" comment="week 4 algo assignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/src/algorithmtoolbox/w2/W2E2_FibonacciHuge.java" beforeDir="false" afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w2/W2E5_FibonacciHuge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/src/algorithmtoolbox/w2/W2E5_FibonacciLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w2/W2E2_FibonacciLastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E2_MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E2_MajorityElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,7 @@
       <recent name="w3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.W4E6_Closest_nlogn">
+  <component name="RunManager" selected="Application.test">
     <configuration name="W3E1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="algorithmtoolbox.w3.W3E1_MoneyChange" />
       <module name="algrorithmtoolbox" />
@@ -155,7 +152,7 @@
     <configuration name="test" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="algorithmtoolbox.w4.mergeSortPoint" />
+      <option name="MAIN_CLASS_NAME" value="algorithmtoolbox.w2.W2E5_FibonacciHuge" />
       <module name="algrorithmtoolbox" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -212,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632980597334</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="week 4 algo assignment">
+      <created>1633701580978</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633701580978</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +235,7 @@
     <MESSAGE value="initial" />
     <MESSAGE value="initial 2" />
     <MESSAGE value="initial 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial 3" />
+    <MESSAGE value="week 4 algo assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 4 algo assignment" />
   </component>
 </project>

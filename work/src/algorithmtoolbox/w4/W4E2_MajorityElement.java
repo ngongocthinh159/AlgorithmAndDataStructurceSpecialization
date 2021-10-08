@@ -100,7 +100,7 @@ public class W4E2_MajorityElement {
         for (int i = 0; i < n; i++) {
             a[i] = scanner.nextInt();
         }
-        if (getMajorityElementDivideAndConquer(a) != -1) {
+        if (getMajorityElementMooreVotingAlgorithm(a) != -1) {
             System.out.println(1);
         } else {
             System.out.println(0);
