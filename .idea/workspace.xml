@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9ae73c2-74db-45d0-b391-66a47d6f92d7" name="Changes" comment="initial" />
+    <list default="true" id="b9ae73c2-74db-45d0-b391-66a47d6f92d7" name="Changes" comment="initial 3">
+      <change afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E1_BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E2_MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E3_ImprovingQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E4_Inversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E5_PointsAndSegments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work/src/algorithmtoolbox/w4/W4E6_Closest_nlogn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,23 +42,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/work/src/algorithmtoolbox/w4" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\javaCode\algrorithmtoolbox\work\src\algorithmtoolbox\w4" />
+      <recent name="C:\Users\Administrator\Documents\javaCode\algrorithmtoolbox" />
       <recent name="C:\Users\Administrator\Documents\javaCode\algrorithmtoolbox\work\src\w3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Documents\javaCode\algrorithmtoolbox" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithmtoolbox.w4" />
       <recent name="w3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.W3E7">
+  <component name="RunManager" selected="Application.W4E6_Closest_nlogn">
     <configuration name="W3E1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="algorithmtoolbox.w3.W3E1_MoneyChange" />
       <module name="algrorithmtoolbox" />
@@ -93,6 +111,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="W4E1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="algorithmtoolbox.w4.W4E1_BinarySearch" />
+      <module name="algrorithmtoolbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W4E2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="algorithmtoolbox.w4.W4E2_MajorityElement" />
+      <module name="algrorithmtoolbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W4E3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="algorithmtoolbox.w4.W4E3_ImprovingQuickSort" />
+      <module name="algrorithmtoolbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W4E4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="algorithmtoolbox.w4.W4E4_Inversions" />
+      <module name="algrorithmtoolbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="W4E6_Closest_nlogn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithmtoolbox.w4.W4E6_Closest_nlogn" />
+      <module name="algrorithmtoolbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithmtoolbox.w4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="algorithmtoolbox.w4.mergeSortPoint" />
+      <module name="algrorithmtoolbox" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.W3E1" />
       <item itemvalue="Application.W3E2" />
@@ -101,7 +169,18 @@
       <item itemvalue="Application.W3E5" />
       <item itemvalue="Application.W3E6" />
       <item itemvalue="Application.W3E7" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.W4E1" />
+      <item itemvalue="Application.W4E2" />
+      <item itemvalue="Application.W4E3" />
+      <item itemvalue="Application.W4E4" />
+      <item itemvalue="Application.W4E6_Closest_nlogn" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.W4E6_Closest_nlogn" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -119,7 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632980265606</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial 2">
+      <created>1632980488354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632980488354</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial 3">
+      <created>1632980597334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632980597334</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,9 +225,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="initial 2" />
+    <MESSAGE value="initial 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial 3" />
   </component>
 </project>
